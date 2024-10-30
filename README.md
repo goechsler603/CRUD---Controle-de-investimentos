@@ -9,12 +9,17 @@
 - 3.1 - REQUISITOS FUNCIONAIS:
 
 RF001 - Cadastrar investimentos: O sistema deve cadastrar novos investimentos que o usuário fez.
+
 RF002 - Visualizar investimentos criados: O sistena deve ter uma pagina para visualização dos investimentos feitos.
+
 RF003 - Atualizar investimentos: O sistema deve ter uma tela para atualizar os investinmentos, por exemplo, vendendo as açoes ou comprando mais. 
 (Em função do meu tema, esse requisito funcionará como o editar do CRUD, pois faz mais sentido do que a edição da ação.)
+
 RF004 - O sistema deve permitir o cadastro de diferentes tipos de investimentos (ações, FIIs, renda fixa, criptomoedas)
+
 RF005 - O usuário deve poder informar a quantidade, preço e data de compra dos ativos.
-RF006 - O sistema deve exibir uma visão geral da carteira com saldo atual, rentabilidade e evolução.
+
+RF006 - O sistema deve exibir uma visão geral da carteira com saldo atual e rentabilidade.
 
 
 - 3.2 - REQUISITOS NÃO FUNCIONAIS: 
