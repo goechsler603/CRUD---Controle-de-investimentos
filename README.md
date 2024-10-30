@@ -41,6 +41,10 @@ RNF002 - A interface deve ser intuitiva e fácil de navegar, com foco na experi�
 
 
 - 9 - REFERÊNCIAS:
+
+(Link do meu figma)
+https://www.figma.com/design/P0flCZ929Sg6jR546Yw29j/CRUD---Controle-de-investimentos?node-id=0-1&node-type=canvas&t=YLUHHO0nl4UPDVeE-0
+  
 (Como não conheço nada de investimentos, procurei aplicativos para me basear)
 https://financeone.com.br/aplicativos-para-controlar-investimentos/
 
