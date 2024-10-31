@@ -2,7 +2,7 @@
 
 - 2 - INTRODUÇÃO
   
-Será desenvolvido um aplicativo para controle de investimentos, podendo cadastrar invesimentos feitos (Comprando ou vendendo) e visualizar o quando já foi investido.
+Será desenvolvido um aplicativo para controle de investimentos, podendo cadastrar invesimentos feitos (Comprando ou vendendo) e visualizar o quando já foi aplicado.
 
 
 - 3 - REQUISITOS DO SISTEMA
