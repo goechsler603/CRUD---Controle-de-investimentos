@@ -1,10 +1,11 @@
 - 1 - CRUD - Controle de investimentos
 
-- 2 - INTRODUÇÃO:
+- 2 - INTRODUÇÃO
+  
+Será desenvolvido um aplicativo para controle de investimentos, podendo cadastrar invesimentos feitos (Comprando ou vendendo) e visualizar o quando já foi investido.
 
 
-
-- 3 - REQUISITOS DO SISTEMA:
+- 3 - REQUISITOS DO SISTEMA
 
 - 3.1 - REQUISITOS FUNCIONAIS:
 
@@ -29,13 +30,18 @@ RNF002 - A interface deve ser intuitiva e fácil de navegar, com foco na experi�
 
 - 4 - DESCRIÇÃO DA ARQUITETURA DO SISTEMA
 
-  MVC?
+  
 
 - 5 - EXPLICAÇÃO DO CÓDIGO
   
 - 6 - REGRAS DE NEGOCIOS
+- 
+  A primeira regra de negócios que eu consegui ver a necessidade foi a alteração e exclusão de investimento, que no meu caso é uma requisito "desnecessário". Quando estamos falando de investimentos, você pode simplesmente vendê-los ou comprar mais para poder gerenciar de maneira correta o seu dinheiro. Então a tela de cadastrar investimentos do meu aplicativo já serve como exclusão e atualização de investimentos.
+  Na parte de quantidade e preço das ações, coloquei para aceitar somente valores numéricos, impedindo o usuário de escrever algo.
 
 - 7 - DESAFIOS E SOLUÇÕES
+  
+  O principal desafio foi o tempo, pois para fazer um aplicativo realmente usável para controle de investimento seria necessário mais tempo. Tive que deixar diversas funcionalidades que são importantes para o gerenciamento dos investimentos de fora.
 
 - 8 - CONCLUSÃO
 
