@@ -16,7 +16,7 @@ RF002 - Visualizar investimentos criados: O sistena deve ter uma pagina para vis
 RF003 - Atualizar investimentos: O sistema deve ter uma tela para atualizar os investinmentos, por exemplo, vendendo as açoes ou comprando mais. 
 (Em função do meu tema, esse requisito funcionará como o editar do CRUD, pois faz mais sentido do que a edição da ação.)
 
-RF004 - O sistema deve permitir o cadastro de diferentes tipos de investimentos (ações, FIIs, renda fixa, criptomoedas)
+RF004 - O sistema deve permitir o cadastro de investimentos digitando os mesmos.
 
 RF005 - O usuário deve poder informar a quantidade, preço e data de compra dos ativos.
 
@@ -26,6 +26,7 @@ RF006 - O sistema deve exibir uma visão geral da carteira com saldo atual e ren
 - 3.2 - REQUISITOS NÃO FUNCIONAIS: 
 
 RNF001 - Banco de dados Firebase: Devido a um dos pontos a ser avaliado ser o conhecimento em Firebase.
+
 RNF002 - A interface deve ser intuitiva e fácil de navegar, com foco na experiência do usuário (UX).
 
 - 4 - DESCRIÇÃO DA ARQUITETURA DO SISTEMA
@@ -42,6 +43,10 @@ RNF002 - A interface deve ser intuitiva e fácil de navegar, com foco na experi�
 - 7 - DESAFIOS E SOLUÇÕES
   
   O principal desafio foi o tempo, pois para fazer um aplicativo realmente usável para controle de investimento seria necessário mais tempo. Tive que deixar diversas funcionalidades que são importantes para o gerenciamento dos investimentos de fora.
+  
+  Tive bastante dificuldade na hora de usar o firebase, tive que buscar em diversos lugares como implementar ele e a usa-lo.
+
+  
 
 - 8 - CONCLUSÃO
 
