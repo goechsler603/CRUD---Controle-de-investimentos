@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617774759103",
+    "project_id": "n2-crud",
+    "storage_bucket": "n2-crud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617774759103:android:43953d89d174250505da0a",
+        "android_client_info": {
+          "package_name": "com.fbrun.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAdxUFzRhTVvfN3el3XEWPf2D3toDaE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617774759103:android:1595d09bb4e723bf05da0a",
+        "android_client_info": {
+          "package_name": "googleservices.json"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAdxUFzRhTVvfN3el3XEWPf2D3toDaE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
