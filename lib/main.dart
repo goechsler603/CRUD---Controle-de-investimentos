@@ -45,14 +45,14 @@ class HomeScreen extends StatelessWidget {
             ),
             Text(
               'Aqui você verá tudo que precisa:',
-              style: TextStyle(color:  Color(0xFF999fa9)),
+              style: TextStyle(color:  Color(0xFF9c9cac)),
             ),
             SizedBox(height: 24),
             _optionCard(
               icon: Icons.savings,
               title: 'Patrimônio',
               subtitle: 'R\$ 143,00',
-              iconColor: Color(0xFF25bddc),
+              iconColor: Color(0xFF24bcdc),
               onTap: () {
                 Navigator.push(
                   context,
@@ -72,7 +72,7 @@ class HomeScreen extends StatelessWidget {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
       decoration: BoxDecoration(
-        color:  Color(0xFF60cde2),
+        color:  Color(0xFF63cce4),
         borderRadius: BorderRadius.circular(20),
       ),
       child: Text(
@@ -89,7 +89,7 @@ class HomeScreen extends StatelessWidget {
         height: 120,
         padding: EdgeInsets.all(16),
         decoration: BoxDecoration(
-          color: Color(0xFF0c506f),
+          color: Color(0xFF0c546c),
           borderRadius: BorderRadius.circular(16),
         ),
         child: Column(
@@ -125,13 +125,13 @@ class HomeScreen extends StatelessWidget {
         height: 120,
         padding: EdgeInsets.all(16),
         decoration: BoxDecoration(
-          color: Color(0xFF0c506f),
+          color: Color(0xFF0c546c),
           borderRadius: BorderRadius.circular(16),
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(Icons.attach_money, size: 48, color: Color(0xFF60cde2)),
+            Icon(Icons.attach_money, size: 48, color: Color(0xFF63cce4)),
             SizedBox(height: 8),
             Text(
               'Investir',

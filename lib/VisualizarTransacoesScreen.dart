@@ -10,7 +10,7 @@ class VisualizarTransacoesScreen extends StatelessWidget {
         backgroundColor: Colors.transparent,
         elevation: 0,
         leading: IconButton(
-          icon: Icon(Icons.arrow_back, color: Color(0xFF60cde2)),
+          icon: Icon(Icons.arrow_back, color: Color(0xFF63cce4)),
           onPressed: () {
             Navigator.pop(context);
           },

@@ -21,7 +21,7 @@ class _CadastrarTransacaoScreenState extends State<CadastrarTransacaoScreen> {
         backgroundColor: Colors.transparent,
         elevation: 0,
         leading: IconButton(
-          icon: Icon(Icons.arrow_back, color: Color(0xFF60CDE2)),
+          icon: Icon(Icons.arrow_back, color: Color(0xFF63cce4)),
           onPressed: () {
             Navigator.pop(context);
           },
@@ -77,7 +77,7 @@ class _CadastrarTransacaoScreenState extends State<CadastrarTransacaoScreen> {
               child: ElevatedButton(
                 onPressed: _saveTransaction,
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Color(0xFF999fa9),
+                  backgroundColor: Color(0xFF9c9cac),
                   padding: EdgeInsets.symmetric(horizontal: 80, vertical: 16),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(16),
